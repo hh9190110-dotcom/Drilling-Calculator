@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.totalcement.app",
+  "appName": "Total Cement",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

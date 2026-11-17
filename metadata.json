@@ -1,0 +1,12 @@
+{
+  "name": "عدل 11 نسخه 1",
+  "description": "تطبيق هندسي متكامل لحسابات السيمنت وإدارة تقارير الحفر بالذكاء الاصطناعي",
+  "version": "2.2.0",
+  "author": "Oil & Gas Engineering Tool",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

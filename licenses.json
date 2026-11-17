@@ -1,0 +1,63 @@
+{
+  "globalKillSwitch": false,
+  "globalMessage": "النسخة متوقفة للصيانة أو انتهاء فترة الترخيص. يرجى التواصل مع الإدارة للتفعيل.",
+  "adminPassword": "cementAdmin2026",
+  "recoveryGmail": "hh9190110@gmail.com",
+  "isAppFree": false,
+  "latestRequiredVersion": "1.0.0",
+  "updateUrl": "",
+  "licenses": [
+    {
+      "key": "CEMENT-DEMO-1111",
+      "name": "نسخة المهندس جبريل",
+      "status": "ACTIVE",
+      "createdAt": "2026-08-06T05:55:04.520Z",
+      "lastVerified": "2026-11-16T08:10:34.810Z",
+      "activeDeviceId": "DEV-a54n78r8vhh-e0smtmwrulr",
+      "plan": "LIFETIME",
+      "expiresAt": null,
+      "phone": ""
+    },
+    {
+      "key": "CEMENT-DEMO-2222",
+      "name": "نسخة المهندس فرج",
+      "status": "ACTIVE",
+      "createdAt": "2026-08-06T05:55:04.520Z",
+      "lastVerified": "",
+      "activeDeviceId": "",
+      "plan": "LIFETIME",
+      "expiresAt": null,
+      "phone": ""
+    },
+    {
+      "key": "CEMENT-1351-5417",
+      "name": "نسخة مفعلة - مهندس معتمد",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-16T08:00:00.000Z",
+      "lastVerified": "",
+      "activeDeviceId": "",
+      "plan": "LIFETIME",
+      "expiresAt": null,
+      "phone": ""
+    }
+  ],
+  "maintenanceMode": false,
+  "maintenanceMessage": "التطبيق يخضع حالياً لأعمال صيانة وتحديثات دورية لتحسين الأداء وإضافة ميزات هندسية جديدة. سيعود للعمل قريباً.",
+  "maintenanceEta": "",
+  "announcementActive": false,
+  "announcementText": "",
+  "contactInfo": "للاشتراك أو تجديد الباقة يرجى التواصل مع إدارة التطبيق",
+  "appVersions": [
+    {
+      "version": "1.0.0",
+      "releaseDate": "2026-06-29",
+      "features": [
+        "الإصدار الأساسي لتطبيق حسابات هندسة الأسمنت المتقدمة (Cementing Master)",
+        "أدوات حسابات هيدروليكية كاملة وحجم الحلقي وإزاحة السوائل وضخ الأسمنت وحجم Shoe Track",
+        "أداة المسح الذكي لصور العمليات وطباعة التقارير بنظام PDF ومشاركتها"
+      ],
+      "downloadUrl": "/APK_DOWNLOAD/app-debug.apk",
+      "isActive": true
+    }
+  ]
+}
